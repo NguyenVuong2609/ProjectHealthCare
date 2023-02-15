@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "key": "1",
+      "name": "Minh Thu",
+      "age": 22,
+      "address": "Yen Bai",
+      "gender": "female",
+      "email": "thutm@gmail.com",
+      "status": true,
+      "rank": true,
+      "id": 1
+    }
+  ],
+  "banned": []
+}
